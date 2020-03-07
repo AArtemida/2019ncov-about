@@ -1,0 +1,16 @@
+<template>
+  <div class=""></div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {};
+  }
+};
+</script>
+
+<style scoped lang="scss">
+@import "@/style/colors.scss";
+
+</style>

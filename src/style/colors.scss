@@ -1,0 +1,42 @@
+$primaryColor: #39A7F0;
+$bgColor: #f7f7f7;
+$white: #fff;
+$grey: #eee;
+
+$black_3: #333;
+$black_4: #444;
+$black_6: #666;
+$black_7: #777;
+$black_9: #999;
+
+$borderColor: #dae9f3;
+$tableBg: #fff;
+$tableTh: #E3E7F3;
+$tableTd: #f4f5f6;
+
+$currentConfirmedCount: #f74c31;
+$suspectedCount: #f78207;
+$seriousCount: #a25a4e;
+$confirmedCount: #ae212c;
+$curedCount: #28b7a3;
+$deadCount: #5d7092;
+
+$currentConfirmedTh: #F3BAB0;
+$confirmedTh: #E8988B;
+$curedTh: #9DDBA0;
+$deadTh: #95AFD6;
+
+$font_18: 1.125rem;
+$font_14: 0.875rem;
+$font_13: 0.8125rem;
+$font_12: 0.75rem;
+$font_10: 0.625rem;
+
+@mixin blockcard{
+    background: $white;
+	box-shadow: $borderColor .3rem .4rem .8rem;
+    border-radius: .3rem;
+    padding: .5rem;
+    border:1px solid $borderColor;
+}
+
