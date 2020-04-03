@@ -12,12 +12,15 @@
 ## View
 样子差不多，支持查看世界，全国，省市地图和地区数据表格：
 
+### 首页
 ![image](img/china.png)
 
 辟谣用到了Swiper插件
 
 ![image](img/list.png)
 
+### 省份
 ![image](img/province.png)
 
+### 世界
 ![image](img/world.png)
